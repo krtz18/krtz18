@@ -1,6 +1,6 @@
 ## Olá, eu sou o Gustavo Kertes, seja bem-vindo!
 
-- 🔭 Atualmente trabalho como Analista de Suporte 
+- 🔭 Atualmente trabalho como Analista de Infraestrura
 - 📚 Estudando HTML, CSS, Javascript, Angular e C# (APIs)
 
 <div>
