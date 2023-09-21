@@ -1,7 +1,7 @@
 ## Olá, eu sou o Gustavo Kertes, seja bem-vindo!
 
 - 🔭 Atualmente trabalho como Analista de Infraestrura
-- 📚 Estudando HTML, CSS, Javascript, Angular e C# (APIs)
+- 📚 Estudando HTML, CSS, Javascript e C# (APIs e MVC)
 
 <div>
   <a href="https://github.com/krtz18">
