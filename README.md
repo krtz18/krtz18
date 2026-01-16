@@ -12,7 +12,7 @@ Em processo de capacitação técnica para atuação como **DevOps Engineer**, c
 
 ## 🛠️ Linguagens & Tecnologias
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
 
 ---
 
@@ -22,4 +22,5 @@ Em processo de capacitação técnica para atuação como **DevOps Engineer**, c
 - Pipelines de **CI/CD**
 - Automação com scripts e IaC
 - Estudos contínuos em Linux, Docker e Cloud
+
 
