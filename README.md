@@ -1,4 +1,4 @@
-# 👋 Olá, sou o Gustavo Kertes e seja bem vindo!
+# 👋 Bem vindo! Sou o Gustavo Kertes.
 
 Profissional de infraestrutura e sistemas, com experiência em ambientes Windows, Linux e redes, atuando com foco em automação e confiabilidade.
 
@@ -10,14 +10,30 @@ Em processo de capacitação técnica para atuação como **DevOps Engineer**, c
 
 ---
 
-## 🛠️ Linguagens & Tecnologias
+## 🛠️ Tecnologias
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krtz18&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
+</p>
 
 ---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-kertes-da-costa/)
+<a href="https://www.linkedin.com/in/gustavo-kertes-da-costa/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+</a>
+
+---
+
+📌 Perfil em constante evolução, com foco em aprendizado prático e boas práticas de engenharia.
+
+
 
 
