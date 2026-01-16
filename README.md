@@ -12,15 +12,12 @@ Em processo de capacitação técnica para atuação como **DevOps Engineer**, c
 
 ## 🛠️ Linguagens & Tecnologias
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=krtz18&layout=compact)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=krtz18&layout=compact&theme=dark)
 
 ---
 
-## 📌 O que você vai encontrar aqui
+## 📫 Contato
 
-- Laboratórios práticos de **DevOps**
-- Pipelines de **CI/CD**
-- Automação com scripts e IaC
-- Estudos contínuos em Linux, Docker e Cloud
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-kertes-da-costa/)
 
 
