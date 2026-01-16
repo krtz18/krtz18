@@ -12,7 +12,7 @@ Em processo de capacitação técnica para atuação como **DevOps Engineer**, c
 
 ## 🛠️ Linguagens & Tecnologias
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=krtz18&layout=compact&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krtz18&layout=compact&theme=dark" alt="Linguagens mais usadas" />
 
 ---
 
