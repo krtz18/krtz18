@@ -10,9 +10,11 @@ Em processo de capacitação técnica para atuar como **DevOps Engineer**, com f
 
 ---
 
-## 🛠️ Linguagens & Tecnologias (baseado nos repositórios)
+## 📊 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SEU_USUARIO&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU_USUARIO&theme=github)
+
 
 ---
 
